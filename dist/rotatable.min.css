@@ -1,0 +1,1 @@
+[data-rotatable]:not(.is-rotating){transition: transform 250ms ease-in}

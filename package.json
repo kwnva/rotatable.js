@@ -1,0 +1,30 @@
+{
+  "name": "rotatable.js",
+  "version": "1.0.0",
+  "description": "Apply 3D rotations to elements based on mouse position",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwnva/rotatable.js.git"
+  },
+  "keywords": [
+    "rotatable",
+    "js",
+    "transform",
+    "rotate"
+  ],
+  "author": "Icy Hippo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwnva/rotatable.js/issues"
+  },
+  "homepage": "https://github.com/kwnva/rotatable.js#readme",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

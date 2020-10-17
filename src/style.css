@@ -1,0 +1,30 @@
+/* Basic stylesheet for the demo */
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'PT Sans', sans-serif;
+
+  height: 100vh;
+  background-color: #ccc;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: #5a5a5a;
+  margin-top: 0;
+}
+
+.square {
+  width: 400px;
+  height: 400px;
+  background-color: #fff;
+  box-shadow: 0 25px 60px -22px #0000003d;
+}
